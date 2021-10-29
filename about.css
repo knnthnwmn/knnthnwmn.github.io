@@ -1,0 +1,39 @@
+body {
+    background-image:url(contactus.jpg);
+    background-size:100%;
+    background-repeat:no-repeat;
+    height: 100%;
+    width: 100%;
+}
+  
+.about {
+    color: aliceblue;
+}
+
+
+.about {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1.bigger {
+  line-height: 2.2;
+}
+
+img {
+  -webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(50%);
+  border-radius: 50%;
+}
+
+.margin-bottom__small {
+  margin-bottom: 2rem;
+}
+
+
+.nav-link{
+  background-color: #0000003b;
+  color: white;
+}

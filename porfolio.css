@@ -1,0 +1,13 @@
+body {
+    background-image:url(CPU3.jpg);
+    background-size:100%;
+    background-repeat:no-repeat;
+    height: 100%;
+    width: 100%;
+  
+}
+  
+.nav-link{
+    background-color: #00000061;
+    color: white;
+  }
